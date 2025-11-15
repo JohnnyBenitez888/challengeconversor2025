@@ -18,7 +18,7 @@ Este proyecto es un conversor de monedas desarrollado en Java como parte de un c
 
 ## 🛠️ Tecnologías Utilizadas
 
-* **Java:** Lenguaje principal del proyecto.
+* **Java 17:** Lenguaje principal del proyecto.
 * **IntelliJ IDEA:** IDE de desarrollo.
 * **Git y GitHub:** Control de versiones y alojamiento de código.
 * **API Externa:** Para obtener las tasas de cambio actualizadas.
@@ -32,12 +32,12 @@ Este proyecto es un conversor de monedas desarrollado en Java como parte de un c
 
 
 2.  **Configurar la API Key:**
-    * Este proyecto utiliza la API de ExchangeRate para obtener las tasas de cambio actuales. Se requiere una clave de API válida, que se puede obtener registrándose en https://www.exchangerate-api.com/.
+    * Abrir el proyecto en IntelliJ IDEA.
+    * Este proyecto utiliza la API de ExchangeRate para obtener las tasas de cambio actuales. Se requiere una clave de API válida, que se puede obtener registrándose grátis en https://www.exchangerate-api.com/.
     * Reemplazar `"API_KEY"` en la Interface `Keys.java` con la clave de API obtenida.
        
 
 3.  **Ejecutar la aplicación:**
-    * Abrir el proyecto en IntelliJ IDEA.
     * Ejecutar el método `main` en la clase `Principal.java`.
 
 ## 🧑‍💻 Autor
