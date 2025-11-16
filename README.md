@@ -1,6 +1,6 @@
 # Challenge Conversor de Moneda - 2025
 
-Este proyecto es un conversor de monedas desarrollado en Java como parte de un challenge de Alura. La aplicación se ejecuta en la consola y permite a los usuarios convertir entre diferentes divisas utilizando tasas de cambio obtenidas de una API externa.
+Este proyecto es un conversor de monedas desarrollado en Java como parte de un challenge de Alura Latam. La aplicación se ejecuta en la consola y permite a los usuarios convertir entre diferentes divisas utilizando tasas de cambio obtenidas de una API externa.
 
 ## 🚀 Características Principales
 

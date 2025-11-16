@@ -13,7 +13,7 @@ public class Principal {
         double cantidad;
 
         do {
-            System.out.println("-----Conversor de Monedas de Alura!!-----\n");
+            System.out.println("-----Conversor de Monedas de Alura Latam!!-----\n");
             System.out.println("1 - Dólar a Peso Argentino");
             System.out.println("2 - Peso Argentino a Dólar");
             System.out.println("3 - Euro a Peso Argentino");
@@ -62,7 +62,7 @@ public class Principal {
                     monedaBase = "COP";
                     monedaDestino = "USD";
                 }
-                case 9 -> System.out.println("Gracias por usar el conversor de Alura!!");
+                case 9 -> System.out.println("Gracias por usar el conversor de Alura Latam!!");
 
                 default -> {
                     System.out.println("Opción no válida. Por favor, elija una opción del 1 al 9.\n");
