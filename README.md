@@ -1,4 +1,4 @@
-# Challenge Conversor de Moneda - 2025
+💱 # Challenge Conversor de Moneda - 2025 - Challenge ONE | Oracle + Alura
 
 Este proyecto es un conversor de monedas desarrollado en Java como parte de un challenge de Alura Latam. La aplicación se ejecuta en la consola y permite a los usuarios convertir entre diferentes divisas utilizando tasas de cambio obtenidas de una API externa.
 
